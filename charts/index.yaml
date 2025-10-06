@@ -3,7 +3,7 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-06T09:27:50.780023102Z"
+    created: "2025-10-06T11:00:52.94506081Z"
     description: A Helm chart for Kubernetes
     digest: 5258dacf01c64f0b004d0be513c2145c18fd81cfbe755a4af37eb4fd9ca2ffa8
     name: webapp
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://Sanchitsingh05.github.io/my-helm-charts/charts/webapp-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-06T09:27:50.779450162Z"
+generated: "2025-10-06T11:00:52.943893271Z"
